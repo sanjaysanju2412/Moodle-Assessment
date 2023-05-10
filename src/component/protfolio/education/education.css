@@ -1,0 +1,20 @@
+.edu-back{
+    background-image: url("./back.jpg");
+    min-height: 100vh;
+    background-size:fixed;
+}
+
+.edu-div{
+    border: 1px solid whitesmoke;
+    border-end-end-radius: 15px;
+    transform: scale3d(0.8);
+   
+}
+
+.div-mo{
+    transition: 1s;
+}
+
+.edu-div:hover{
+    transform: scale(0.9);
+}

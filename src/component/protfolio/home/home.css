@@ -1,0 +1,27 @@
+.back-div{
+    background-image: url("./back.jpg");
+    min-height: 100vh;
+    background-size:fixed;
+}
+
+.am-name{
+    font-family: Josefin Sans,sans-serif;
+    font-size: 90px;
+    font-weight: 800;
+    
+}
+
+.r-name{
+    font-weight: 800;
+    font-size: 200px;
+}
+
+@media screen and (min-width:290px) and (max-width:990px) {
+    .r-name{
+        font-size: 70px;
+    }
+    .am-name{
+        font-size: 50px;
+    }
+    
+}

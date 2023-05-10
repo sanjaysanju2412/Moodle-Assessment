@@ -1,0 +1,10 @@
+.imb{
+    background-image: url('mount.jpg');
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+.main{
+    padding-top: 150px;
+}

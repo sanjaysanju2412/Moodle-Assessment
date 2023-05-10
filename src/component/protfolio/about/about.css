@@ -1,0 +1,21 @@
+.br-div{
+    background-image: url("./back.jpg");
+    min-height: 100vh;
+    background-size:fixed;
+}
+.aboutimgdiv{
+    background-image: linear-gradient(to right,rgb(66,73,69),rgb(201,206,209));
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.about-h{
+    color: #1bbdbd;
+}
+.butn{
+    border-radius: 5px;
+    font-size: 13px;
+}
+.svg-inline--fa{
+    height: 1em;
+    vertical-align: -0.125em;
+}

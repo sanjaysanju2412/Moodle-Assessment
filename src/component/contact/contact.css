@@ -1,0 +1,5 @@
+.cont-div{
+    background-image: url("./back.jpg");
+    min-height: 100vh;
+    background-size:fixed;
+}

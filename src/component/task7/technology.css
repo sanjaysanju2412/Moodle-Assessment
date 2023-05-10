@@ -1,0 +1,26 @@
+.adiv{
+    border-radius: 20px;
+    border-top: solid red 5px;
+    
+    
+}
+
+.bdiv{
+    border-radius: 20px;
+    border-top: solid skyblue 5px;
+
+    
+}
+
+.cdiv{
+    border-radius: 20px;
+    border-top: solid green 5px;
+    
+    
+}
+
+.ddiv{
+    border-radius: 20px;
+    border-top: solid orange 5px;
+    
+}

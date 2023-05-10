@@ -1,0 +1,12 @@
+.bck{
+    text-align: center;
+    background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+    height: 100%;
+    width: 100%;
+    background-size: 100vh;
+}
+.bck1{
+    margin-left: 41%;
+    background-color: aqua;
+    width: 19%;
+}
